@@ -7,7 +7,7 @@ CPython 3.8 - 3.11 only.
 ## Installation
 
 ```bash
-pip install -U unsafe-python
+pip install -U unsafelib
 ```
 
 ## Usage

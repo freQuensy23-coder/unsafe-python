@@ -3,7 +3,7 @@ requires = ["hatchling"]
 build-backend = "hatchling.build"
 
 [project]
-name = "unsafe-python"
+name = "unsafelib"
 version = "0.1.0"
 description = "Memory-unsafe operations in pure CPython via LOAD_CONST OOB exploit, wrapped in safe context managers"
 readme = "README.md"
