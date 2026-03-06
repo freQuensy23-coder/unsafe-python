@@ -24,9 +24,9 @@ classifiers = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/freQuensy23-coder/unsafe-python"
-Repository = "https://github.com/freQuensy23-coder/unsafe-python"
-Issues = "https://github.com/freQuensy23-coder/unsafe-python/issues"
+Homepage = "https://github.com/freQuensy23-coder/unsafelib"
+Repository = "https://github.com/freQuensy23-coder/unsafelib"
+Issues = "https://github.com/freQuensy23-coder/unsafelib/issues"
 
 [tool.hatch.build.targets.wheel]
 packages = ["src/unsafe_python"]
